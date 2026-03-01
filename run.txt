@@ -1,0 +1,2 @@
+python3 lane-detecto.py --input video.mp4 --output result.mp4 --slow 1
+
